@@ -25,6 +25,7 @@
   Open the file in a browser and verify the output.
   
 ## CODE
+```
 <!DOCTYPE html>
 <html>
 <head>
@@ -85,6 +86,7 @@
 
 </body>
 </html>
+```
 
 ## OUTPUT
 ![exp 3](https://github.com/Vengatraj212221010043/Ex03_Web-Design/assets/128878559/3449675e-4d46-459a-9e5c-49f9fb4c1ac7)
