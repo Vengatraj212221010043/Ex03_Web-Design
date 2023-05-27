@@ -25,9 +25,69 @@
   Open the file in a browser and verify the output.
   
 ## CODE
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Slot Time Table</title>
+</head>
+<body align="center">
+    <img src="seclogo.jpg" height="158" width="760">
+<h2 SLOT TIME TABLE -  VENGATRAJ V(212221010043)</h2>
+<text>SLOT TIME TABLE VENGATRAJ V(212221010043)</text>
+<br>
+<table border="1px" width="500" bgcolor="cyan" align="center">
 
+<tr style="background-color: red;">
+<th>Day/Time</th>
+<th>Monday</th>
+<th>Tuesday</th>
+<th>Wednesday</th>
+<th>Thursday</th>
+<th>Friday</th>
+</tr>
+<tr>
+<td style="background-color: red;">8-10</td>
+<td>Tractor and Automotive Engines</td>
+<td>Web Designing</td>
+<td>Advance Quantitive And Logical Resoning</td>
+<td>Computer Programming and Data Structure</td>
+<td>Farm Building Construction And Cost Estimation</td>
+</tr>
+<tr>
+<td style="background-color: red;">10-12</td>
+<td>EMPU</td>
+<td>Waste and BY Product Utilization</td>
+<td>Tractor and Automotive Engines</td>
+<td>Free Slot</td>
+<td>Computer Programming and Data Structure</td>
+</tr>
+<tr>
+<td style="background-color: red;">12-1</td>
+<td colspan="5" align="center">L U N C H</td>
+</tr>
+<tr height="70" >
+<td style="background-color: red;">1-3</td>
+<td >Irrigation</td>
+<td>Irrigation</td>
+<td>Free Slot</td>
+<td>Free Slot</td>
+<td>Drones for Agriculture</td>
+</tr>
+<tr heignt="70">
+<td style="background-color: red;">3-5</td>
+<td>Engineering Properties of Agricultural Product</td>
+<td>Drones for Agriculture</td>
+<td>Waste and BY product Utilization </td>
+<td>EMPU</td>
+<td>Web Designing</td>
+</tr>
+</table>
+
+</body>
+</html>
 
 ## OUTPUT
+![exp 3](https://github.com/Vengatraj212221010043/Ex03_Web-Design/assets/128878559/3449675e-4d46-459a-9e5c-49f9fb4c1ac7)
 
 
 ## RESULT
